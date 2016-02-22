@@ -47,14 +47,13 @@ Ryan Chen,April,10000,2696,7304,1000
 Using Ruby 2.2.1
 
 ### Usage ###
-./bin/payslip --help
 Usage:
     payslip [OPTIONS]
 
 Options:
     -v, --verbose                 enable debugging
     -i, --input INPUT_CSV         Input CSV File
-    -o, --output OUTOUT_CSV       Output CSV File
+    -o, --output OUTOUT_CSV       Output CSV File, default payslip.csv
     -h, --help                    print help
     
 
